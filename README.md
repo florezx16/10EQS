@@ -23,5 +23,5 @@ The file use the CSV path as argument, if you dont send the path you will find s
 Clone the repository on your PC
 
 ```sh
-git clone https://github.com/user/repo.git
-cd your_repo
+git clone https://github.com/florezx16/10EQS.git
+cd 10EQS
